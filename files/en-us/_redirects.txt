@@ -11939,7 +11939,6 @@
 /en-US/docs/Web/HTML/Element/Video/loadeddata_event	/en-US/docs/Web/API/HTMLMediaElement/loadeddata_event
 /en-US/docs/Web/HTML/Element/audio/playing_event	/en-US/docs/Web/API/HTMLMediaElement/playing_event
 /en-US/docs/Web/HTML/Element/basefont	/en-US/docs/Web/CSS/CSS_Fonts
-/en-US/docs/Web/HTML/Element/content /en-US/docs/Web/HTML/Element/slot
 /en-US/docs/Web/HTML/Element/h1	/en-US/docs/Web/HTML/Element/Heading_Elements
 /en-US/docs/Web/HTML/Element/h1–h6	/en-US/docs/Web/HTML/Element/Heading_Elements
 /en-US/docs/Web/HTML/Element/h2	/en-US/docs/Web/HTML/Element/Heading_Elements
